@@ -152,9 +152,9 @@ void gameIntro()
 {
   lcd.clear();
   lcd.home();
-  lcd.print(" Welcome to the");
+ lcd.print("  Welcome to  ");
   lcd.setCursor(0,1);
-  lcd.print(" Math Problems");
+  lcd.print("  Math Boy");
   delay(2000);
   lcd.clear();
   lcd.home();
